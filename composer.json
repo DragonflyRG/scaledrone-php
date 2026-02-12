@@ -21,13 +21,13 @@
 		}
 	},
 	"require": {
-		"guzzlehttp/guzzle": "~6.0"
+		"guzzlehttp/guzzle": "^7.4"
 	},
 	"require-dev": {
-		"phpunit/phpunit": "^5.7"
+		"phpunit/phpunit": "^9.5"
 	},
 	"support": {
-		"issues": "https://github.com/ScaleDrone/scaledrone-php/issues"
+		"issues": "https://github.com/DragonflyRG/scaledrone-php/issues"
 	},
 	"license": "MIT"
 }
